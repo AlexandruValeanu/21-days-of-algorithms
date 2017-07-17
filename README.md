@@ -6,4 +6,4 @@ The goal of this challenge is to provide a clear (and if possible effiecient) im
 
 Every piece of code is released under GNU GPL v3.0
 
-To run any notebook on your own machine you'll need Python3, Jupyter Notebook and to clone this repository (and possibly Anaconda for missing libraries).
+To run any notebook on your own machine you'll need Python3, Jupyter Notebook and to clone this repository (and possibly Anaconda for missing libraries: numpy, scipy, ...).
