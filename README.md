@@ -7,3 +7,6 @@ The goal of this challenge is to provide a clear (and if possible effiecient) im
 Every piece of code is released under GNU GPL v3.0
 
 To run any notebook on your own machine you'll need Python3, Jupyter Notebook and to clone this repository (and possibly Anaconda for missing libraries: numpy, scipy, ...).
+
+Algorithms:
+* [Towers of Tanoi](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2001%20-%20Tower%20of%20Hanoi.ipynb)
