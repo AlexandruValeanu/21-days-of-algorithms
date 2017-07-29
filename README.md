@@ -25,3 +25,4 @@ Implementations:
 * [Forward Euler](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2014%20-%20Forward%20Euler.ipynb)
 * [Quicksort](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2015%20-%20Quicksort.ipynb)
 * [Stable marriage - Gale-Shapley](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2016%20-%20Stable%20marriage%20(Gale-Shapley).ipynb)
+* [Running median - 2 heaps](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2017%20-%20Running%20median.ipynb)
