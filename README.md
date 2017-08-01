@@ -28,4 +28,4 @@ Implementations:
 * [Running median - 2 heaps](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2017%20-%20Running%20median.ipynb)
 * [Selection algorithm](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2018%20-%20Selection%20algorithm.ipynb)
 * [Huffman encoding/decoding](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2019%20-%20Huffman%20coding.ipynb)
-* [Counting inversion - Fenwick tree](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2020%20-%20Counting%20inversions.ipynb)
+* [Counting inversions - Fenwick tree](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2020%20-%20Counting%20inversions.ipynb)
