@@ -29,3 +29,4 @@ Implementations:
 * [Selection algorithm](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2018%20-%20Selection%20algorithm.ipynb)
 * [Huffman encoding/decoding](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2019%20-%20Huffman%20coding.ipynb)
 * [Counting inversions - Fenwick tree](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2020%20-%20Counting%20inversions.ipynb)
+* [Burrows-Wheeler transform](https://github.com/AlexandruValeanu/365-days-of-algorithms/blob/master/Day%2021%20-%20Burrows%E2%80%93Wheeler%20transform.ipynb)
