@@ -1,4 +1,4 @@
-# 365 days of algorithms
+# 21 days of algorithms
 
 This repository contains implementations (as notebooks) in Python3 for a challenge inspired by Tomáš Bouda's 100 days of algorithms. You can check Tomáš' challenge [here](https://github.com/coells/100days).
 
